@@ -1,6 +1,7 @@
 # tokyo-olympic-azure-data-engineering-project
 It is a End-to-End Azure Data Engineering Project
-![image](https://github.com/user-attachments/assets/a67a7c98-87af-4869-87f4-0adec67791e2)
+![Picture1](https://github.com/user-attachments/assets/4174616f-9b93-422c-bc65-4f29782bbf67)
+
 
 I built an end-to-end data engineering solution using Microsoft Azure Cloud services. This project allowed me to explore various Azure components, including Azure Data Factory, Azure Data Lake, Azure Databricks, and Azure Synapse Analytics.
 
